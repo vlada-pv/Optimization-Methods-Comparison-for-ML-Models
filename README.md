@@ -1,2 +1,2 @@
 # Optimization-Methods-Comparison-for-ML-Models
-Comparison of the Momentum, RMSprop, and Adam optimization methods to GD and SGD for machine learning models using synthetic data to evaluate convergence speed and accuracy.
+This project implements the Momentum, RMSprop, and Adam optimization methods analogous to GD and SGD for a given task. By comparing the results of these three optimization methods on a synthetic matrix X and vector y, experiments are conducted across tasks of varying dimensions to evaluate convergence estimates and draw conclusions on the speed and accuracy of convergence based on model parameters.
